@@ -49,4 +49,6 @@ Cluster quality was evaluated using:
 
 This project was part of a data mining / machine learning exploration of large-scale biological datasets and demonstrates how traditional clustering approaches perform on high-dimensional genomics data.
 
+## Installation
 
+pip install -r requirements.txt
