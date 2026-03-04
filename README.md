@@ -12,6 +12,13 @@ The dataset contains gene expression measurements for:
 
 Each sample represents normalized RNA-seq counts across thousands of genes.
 
+The RNA-seq dataset used in this project was obtained from The Cancer Genome Atlas (TCGA).
+
+Due to dataset size, the raw data is not included in this repository.
+
+Dataset source:
+https://www.cancer.gov/tcga
+
 ## Methodology
 
 The analysis pipeline included several preprocessing and dimensionality reduction steps:
@@ -41,3 +48,5 @@ Cluster quality was evaluated using:
 ## Purpose
 
 This project was part of a data mining / machine learning exploration of large-scale biological datasets and demonstrates how traditional clustering approaches perform on high-dimensional genomics data.
+
+
